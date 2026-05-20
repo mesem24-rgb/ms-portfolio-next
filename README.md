@@ -4,7 +4,9 @@ A modern developer portfolio built with Next.js, React, and TypeScript showcasin
 
 ## Live Demo
 
-https://michaelsullivan-portfolio-next-2.vercel.app/
+🔗 https://michaelsullivan-portfolio-next-2.vercel.app/
+
+---
 
 ## Features
 
@@ -17,6 +19,8 @@ https://michaelsullivan-portfolio-next-2.vercel.app/
 - Optimized deployment with Vercel
 - Reusable component architecture
 
+---
+
 ## Tech Stack
 
 - Next.js
@@ -26,21 +30,34 @@ https://michaelsullivan-portfolio-next-2.vercel.app/
 - CSS Modules / Global CSS
 - Vercel
 
+---
+
 ## Screenshots
 
-_Add screenshots here_
+### Homepage
+_Add homepage screenshot here_
+
+### Mobile View
+_Add mobile screenshot here_
+
+### Project Section
+_Add project section screenshot here_
+
+---
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/mesem24-rgb/ms-portfolio-next.git
 
-cd portfolio
+cd ms-portfolio-next
 
 npm install
 
 npm run dev
+```
 
+---
 
 ## Challenges & Solutions
 
@@ -53,12 +70,17 @@ To solve this:
 - responsive breakpoints were refined for mobile devices
 - component structure was organized for scalability and maintainability
 
+---
+
 ## Performance Optimizations
+
 - Optimized image handling
 - Reusable component architecture
 - Responsive-first design approach
 - Reduced unnecessary rerenders
 - Organized and scalable project structure
+
+---
 
 ## Accessibility
 
@@ -70,6 +92,8 @@ Accessibility considerations included:
 - keyboard-friendly interactions
 - mobile-friendly navigation and spacing
 
+---
+
 ## What I Learned
 
 This project strengthened my understanding of:
@@ -80,16 +104,21 @@ This project strengthened my understanding of:
 - Next.js App Router workflows
 - production deployment practices with Vercel
 
+---
+
 ## Future Improvements
+
 - Dark mode support
 - CMS integration
 - Expanded project case studies
 - Enhanced accessibility improvements
 - Additional animation refinements
 
+---
+
 ## Author
 
-Michael Sullivan
+### Michael Sullivan
 
 - Portfolio: https://michaelsullivan-portfolio-next-2.vercel.app/
 - GitHub: https://github.com/mesem24-rgb
