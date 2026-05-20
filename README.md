@@ -35,13 +35,17 @@ A modern developer portfolio built with Next.js, React, and TypeScript showcasin
 ## Screenshots
 
 ### Homepage
-_Add homepage screenshot here_
+<img width="1295" height="748" alt="image" src="https://github.com/user-attachments/assets/118d7dbf-896b-4261-9945-132b786b1c6e" />
+
 
 ### Mobile View
-_Add mobile screenshot here_
+<img width="233" height="408" alt="Portfolio_mobile_pic" src="https://github.com/user-attachments/assets/70e3db73-766a-4b59-abe3-80a2202565cd" />
+
 
 ### Project Section
-_Add project section screenshot here_
+<img width="975" height="754" alt="Portfolio_project_pic1" src="https://github.com/user-attachments/assets/c2d2f843-ccb3-45b3-8fa3-18c8b2d5e067" />
+<img width="974" height="752" alt="Portfolio_project_pic2" src="https://github.com/user-attachments/assets/eee99895-0c2c-4b62-b3fb-b3ace7461209" />
+
 
 ---
 
